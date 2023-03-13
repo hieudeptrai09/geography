@@ -1,0 +1,19 @@
+.wrapper {
+  position: relative;
+  margin: auto;
+}
+
+.btn-wrapper {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  display: grid;
+}
+
+.btn-wrapper button {
+  background-color: #f5f0bb;
+}
+
+.uncover {
+  visibility: hidden;
+}
